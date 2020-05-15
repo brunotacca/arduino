@@ -1,0 +1,6 @@
+{
+    "sketch": "UART.ino",
+    "port": "COM1",
+    "board": "TinyCircuits:samd:tinyzero",
+    "configuration": "BuildOption=normal"
+}
